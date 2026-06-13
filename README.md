@@ -165,6 +165,20 @@ The Power BI dashboard includes:
 - High-risk application table
 - Filters for city, gender, education, employment type, and approval status
 
+### Dashboard Screenshots
+
+Executive Summary
+![Executive Summary](dashboards/dashboard_page1_executive_summary.png)
+
+Risk Overview & Segmentation
+![Risk Overview](dashboards/dashboard_page2_risk_overview.png)
+
+Exposure Analysis
+![Exposure Analysis](dashboards/dashboard_page3_exposure_analysis.png)
+
+Drill-Down Table
+![Drill-Down Table](dashboards/dashboard_page4_drilldown_table.png)
+
 ## Business Impact
 
 This project demonstrates how structured analytics can help financial teams:
