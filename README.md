@@ -42,7 +42,7 @@ Main fields include: Age, Income, LoanAmount, CreditScore, YearsExperience, Gend
 | SQL | Data profiling, validation checks, KPI calculations, and risk analysis |
 | GitHub | Version control and project documentation |
 | CSV Dataset | Source dataset for analysis |
-| Power BI | Dashboard and reporting layer |
+| Power BI | Dashboard with KPI cards, risk analysis, segmentation, and drill-down table |
 | Python | Data preparation, quality checks, and risk flagging automation |
 
 ## Project Structure
