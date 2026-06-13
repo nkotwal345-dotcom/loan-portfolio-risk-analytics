@@ -1,8 +1,8 @@
-\# Loan Portfolio Risk Analytics
+# Loan Portfolio Risk Analytics
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,7 +14,7 @@ This project is built for portfolio demonstration purposes using public data. It
 
 
 
-\## Business Problem
+## Business Problem
 
 
 
@@ -26,7 +26,7 @@ This project shows how SQL-based profiling, data quality validation, KPI calcula
 
 
 
-\## Objectives
+## Objectives
 
 
 
@@ -48,7 +48,7 @@ This project shows how SQL-based profiling, data quality validation, KPI calcula
 
 
 
-\## Dataset
+## Dataset
 
 
 
