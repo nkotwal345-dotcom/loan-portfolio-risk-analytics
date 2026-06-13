@@ -30,21 +30,21 @@ This project shows how SQL-based profiling, data quality validation, KPI calcula
 
 
 
-\- Profile loan application data for quality issues
+- Profile loan application data for quality issues
 
-\- Identify missing values, duplicates, invalid values, and outliers
+- Identify missing values, duplicates, invalid values, and outliers
 
-\- Define data quality validation rules
+- Define data quality validation rules
 
-\- Calculate portfolio and approval KPIs
+- Calculate portfolio and approval KPIs
 
-\- Segment applicants by credit risk bands
+- Segment applicants by credit risk bands
 
-\- Create source-to-target mapping documentation
+- Create source-to-target mapping documentation
 
-\- Document data dictionary and data lineage
+- Document data dictionary and data lineage
 
-\- Prepare a dashboard-ready reporting layer
+- Prepare a dashboard-ready reporting layer
 
 
 
