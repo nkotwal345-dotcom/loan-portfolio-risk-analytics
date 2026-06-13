@@ -1,4 +1,4 @@
-\# Source-to-Target Mapping
+# Source-to-Target Mapping
 
 
 
@@ -40,7 +40,7 @@ This document explains how source fields are mapped to reporting fields and KPIs
 
 
 
-\## Notes
+## Notes
 
 
 
