@@ -1,4 +1,4 @@
-\# Dashboard Notes
+# Dashboard Notes
 
 
 
@@ -6,7 +6,7 @@ This document describes the planned Power BI dashboard for the Loan Portfolio Ri
 
 
 
-\## Dashboard Purpose
+## Dashboard Purpose
 
 
 
@@ -14,11 +14,11 @@ The dashboard is designed to help users monitor loan applications, approval patt
 
 
 
-\## Dashboard Layout
+## Dashboard Layout
 
 
 
-\### 1. Executive Summary
+### 1. Executive Summary
 
 
 
@@ -26,37 +26,21 @@ Top-level KPI cards:
 
 
 
-\- Total Applications
+- Total Applications
 
-\- Total Requested Loan Amount
+- Total Requested Loan Amount
 
-\- Average Loan Amount
+- Average Loan Amount
 
-\- Average Credit Score
+- Average Credit Score
 
-\- Approval Rate
+- Approval Rate
 
-\- High-Risk Applications
-
-
-
-\### 2. Risk Overview
+- High-Risk Applications
 
 
 
-Visuals:
-
-
-
-\- Applications by Credit Risk Band
-
-\- Approval Rate by Risk Band
-
-\- High-Risk vs Low-Risk Applications
-
-
-
-\### 3. Applicant Segmentation
+### 2. Risk Overview
 
 
 
@@ -64,17 +48,15 @@ Visuals:
 
 
 
-\- Approval Rate by Employment Type
+- Applications by Credit Risk Band
 
-\- Average Loan Amount by Education
+- Approval Rate by Risk Band
 
-\- Applications by City
-
-\- Average Credit Score by Gender
+- High-Risk vs Low-Risk Applications
 
 
 
-\### 4. Exposure Analysis
+### 3. Applicant Segmentation
 
 
 
@@ -82,15 +64,33 @@ Visuals:
 
 
 
-\- Loan-to-Income Ratio
+- Approval Rate by Employment Type
 
-\- High Exposure Applications
+- Average Loan Amount by Education
 
-\- Loan Amount Distribution
+- Applications by City
+
+- Average Credit Score by Gender
 
 
 
-\### 5. Drill-Down Table
+### 4. Exposure Analysis
+
+
+
+Visuals:
+
+
+
+- Loan-to-Income Ratio
+
+- High Exposure Applications
+
+- Loan Amount Distribution
+
+
+
+### 5. Drill-Down Table
 
 
 
@@ -98,55 +98,55 @@ Fields:
 
 
 
-\- Age
+- Age
 
-\- Income
+- Income
 
-\- LoanAmount
+- LoanAmount
 
-\- CreditScore
+- CreditScore
 
-\- YearsExperience
+- YearsExperience
 
-\- Gender
+- Gender
 
-\- Education
+- Education
 
-\- City
+- City
 
-\- EmploymentType
+- EmploymentType
 
-\- LoanApproved
-
-
-
-\## Planned Filters
+- LoanApproved
 
 
 
-\- City
-
-\- Gender
-
-\- Education
-
-\- EmploymentType
-
-\- Credit Risk Band
-
-\- Loan Approval Status
+## Planned Filters
 
 
 
-\## Intended Users
+- City
+
+- Gender
+
+- Education
+
+- EmploymentType
+
+- Credit Risk Band
+
+- Loan Approval Status
 
 
 
-\- Business analysts
+## Intended Users
 
-\- Risk analysts
 
-\- Reporting teams
 
-\- Portfolio monitoring teams
+- Business analysts
+
+- Risk analysts
+
+- Reporting teams
+
+- Portfolio monitoring teams
 
