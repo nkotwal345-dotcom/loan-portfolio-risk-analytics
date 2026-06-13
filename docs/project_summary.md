@@ -1,8 +1,8 @@
-\# Project Summary
+# Project Summary
 
 
 
-\## Project Name
+## Project Name
 
 
 
@@ -10,7 +10,7 @@ Loan Portfolio Risk Analytics
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -18,7 +18,7 @@ This project demonstrates a loan portfolio risk analytics workflow using a publi
 
 
 
-\## Business Problem
+## Business Problem
 
 
 
@@ -26,7 +26,7 @@ Financial teams need accurate and timely reporting to monitor loan applications,
 
 
 
-\## Objective
+## Objective
 
 
 
@@ -34,25 +34,25 @@ The objective of this project is to build a structured analytics workflow that i
 
 
 
-\- Data profiling
+- Data profiling
 
-\- Data quality validation
+- Data quality validation
 
-\- KPI calculation
+- KPI calculation
 
-\- Risk segmentation
+- Risk segmentation
 
-\- Source-to-target mapping
+- Source-to-target mapping
 
-\- Data dictionary documentation
+- Data dictionary documentation
 
-\- Data lineage documentation
+- Data lineage documentation
 
-\- Dashboard-ready reporting logic
+- Dashboard-ready reporting logic
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
@@ -72,33 +72,33 @@ The objective of this project is to build a structured analytics workflow that i
 
 
 
-\## Key Metrics
+## Key Metrics
 
 
 
-\- Total loan applications
+- Total loan applications
 
-\- Total requested loan amount
+- Total requested loan amount
 
-\- Average loan amount
+- Average loan amount
 
-\- Average income
+- Average income
 
-\- Average credit score
+- Average credit score
 
-\- Approval rate
+- Approval rate
 
-\- High-risk application count
+- High-risk application count
 
-\- Loan-to-income ratio
+- Loan-to-income ratio
 
-\- Approval rate by employment type
+- Approval rate by employment type
 
-\- Risk band distribution
+- Risk band distribution
 
 
 
-\## Key SQL Files
+## Key SQL Files
 
 
 
@@ -116,7 +116,7 @@ The objective of this project is to build a structured analytics workflow that i
 
 
 
-\## Key Documentation Files
+## Key Documentation Files
 
 
 
@@ -136,7 +136,7 @@ The objective of this project is to build a structured analytics workflow that i
 
 
 
-\## Disclaimer
+## Disclaimer
 
 
 
