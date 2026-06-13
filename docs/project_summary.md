@@ -66,7 +66,7 @@ The objective of this project is to build a structured analytics workflow that i
 
 | CSV Dataset | Source data for analysis |
 
-| Power BI | Planned dashboard/reporting layer |
+| Power BI | Dashboard with KPI cards, risk analysis, segmentation, and drill-down table |
 
 | Python | Planned data preparation and automation layer |
 
