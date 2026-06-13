@@ -1,4 +1,4 @@
-\# Data Quality Rules
+# Data Quality Rules
 
 
 
@@ -36,17 +36,17 @@ This document defines validation checks used to ensure the loan risk dataset is 
 
 
 
-\## Data Quality Dimensions Covered
+## Data Quality Dimensions Covered
 
 
 
-\- Completeness
+- Completeness
 
-\- Validity
+- Validity
 
-\- Consistency
+- Consistency
 
-\- Uniqueness
+- Uniqueness
 
-\- Accuracy
+- Accuracy
 
